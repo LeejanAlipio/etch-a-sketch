@@ -1,6 +1,12 @@
 # Etch-A-Sketch
 
-Second last project of Odin's Foundation Path
+Second last project of Odin's Foundation Path. When you hover a grid, it changes to a random color and it's opacity keeps increasing until it hits 1.
+
+# Preview
+![Project image](/image.png)
+
+# Live 
+[Live Page](https://markleejanalipio.github.io/etch-a-sketch/)
 
 # Pseudocode
 
@@ -15,4 +21,3 @@ Second last project of Odin's Foundation Path
 - CHANGES SIZE when change btn is clicked
     - PROMPT the user for the size and limit it to a 100
 - RESET progress when reset btn is clicked while the size stays the same
-    
